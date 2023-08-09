@@ -19,8 +19,8 @@ This repository contains a JavaScript implementation for processing train journe
 1. **Clone the Repository**: Clone this repository to your local machine.
 
    ```sh
-git clone "https://github.com/Chinmaya255696/TRAIN-PROBLEM.git"
-run TRAIN-PROBLEM
+## git clone https://github.com/Chinmaya255696/TRAIN-PROBLEM.git
+## run  train.js
 ## Customization
 Feel free to explore and adapt this code to suit your specific train journey processing needs. If you encounter any issues or have suggestions for improvements, please don't hesitate to open an issue or submit a pull request.
 
