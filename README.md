@@ -17,8 +17,8 @@ This repository contains a JavaScript implementation for processing train journe
 ## Usage
 
 1. **Clone the Repository**: Clone this repository to your local machine.
- git clone https://github.com/Chinmaya255696/TRAIN-PROBLEM.git
-   ```sh
+ 
+   ```sh git clone https://github.com/Chinmaya255696/TRAIN-PROBLEM.git
 
 ## run  train.js
 ## Customization
